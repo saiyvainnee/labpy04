@@ -79,3 +79,5 @@ menambahkan_data_ke_list, fungsi ini di gunakan untuk mengubah data di list.
 
 menambah_data, memberikan pilihan jika memlilih 'y' maka user akan menambahkan data baru lagi dan jika memilih 't' maka seluruh fungsi akan berhenti dan akan memasuki tahap berikutnya
 output_untuk_data_yang_sudah_dikumpulkan, fungsi untuk membuat tabel list dari sistem yang di atas
+## Flowchart
+![Uploading image.png…]()
