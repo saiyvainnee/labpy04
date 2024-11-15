@@ -68,3 +68,14 @@ sai                  312410112  80.0       75.0       80.0       78.5
 lingling             312410242  80.0       80.0       80.0       80.0
 PS C:\Users\SAYIDINA RAMADHAN\Desktop\vscode sayi>
 ```
+## penjelasan
+mengitung_nilai_akhir, menghitung nilai akhir dari semua nilai.
+
+daftar_untuk_menyimpan_data, fungsi ini di tunjukan untuk menyimpan data dan jika ingin merubahnya hanya perlu memanggil variabel dari data ini.
+
+input_loop_untuk_mengumpukan_data_mahasiswa, fungsi untuk melakukan looping.
+
+menambahkan_data_ke_list, fungsi ini di gunakan untuk mengubah data di list.
+
+menambah_data, memberikan pilihan jika memlilih 'y' maka user akan menambahkan data baru lagi dan jika memilih 't' maka seluruh fungsi akan berhenti dan akan memasuki tahap berikutnya
+output_untuk_data_yang_sudah_dikumpulkan, fungsi untuk membuat tabel list dari sistem yang di atas
